@@ -1,2 +1,2 @@
-# clase09052022-ejercitoPrompt-Funciones
+# clase16052022-pruebadeescritorioconArray
 Created with CodeSandbox
